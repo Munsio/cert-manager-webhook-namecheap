@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  letsencrypt-namecheap-issuer:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-12-11T18:13:39.097684249Z"
+    description: A Helm chart for Kubernetes
+    digest: 740b16cf23f773051b90a1d408f291aa5ce8b0d9ba77ee008eadf7cc232e657e
+    name: letsencrypt-namecheap-issuer
+    type: application
+    urls:
+    - https://Munsio.github.io/cert-manager-webhook-namecheap/letsencrypt-namecheap-issuer-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-12-11T18:13:39.097305912Z"
