@@ -1,14 +1,24 @@
 apiVersion: v1
 entries:
+  cert-manager-webhook-namecheap:
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2024-12-11T18:20:49.138917338Z"
+    description: Namecheap Webhook for Cert Manager
+    digest: 1e6572cc7acd95acd7ba28380335aa29c268c0bd84c9eac632d54aacb0eb41c8
+    name: cert-manager-webhook-namecheap
+    urls:
+    - https://Munsio.github.io/cert-manager-webhook-namecheap/cert-manager-webhook-namecheap-0.1.0.tgz
+    version: 0.1.0
   letsencrypt-namecheap-issuer:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-12-11T18:13:39.097684249Z"
+    created: "2024-12-11T18:20:49.139114156Z"
     description: A Helm chart for Kubernetes
-    digest: 740b16cf23f773051b90a1d408f291aa5ce8b0d9ba77ee008eadf7cc232e657e
+    digest: ffb3b0c26836f48d930cdb452e4d46151b617de05ac3f4d95497edd56515e1b2
     name: letsencrypt-namecheap-issuer
     type: application
     urls:
     - https://Munsio.github.io/cert-manager-webhook-namecheap/letsencrypt-namecheap-issuer-0.1.0.tgz
     version: 0.1.0
-generated: "2024-12-11T18:13:39.097305912Z"
+generated: "2024-12-11T18:20:49.138467767Z"
